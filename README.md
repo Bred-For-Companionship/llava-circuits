@@ -30,6 +30,8 @@ LLava-circuits.ipynb contains the experiment setup and preliminary results. We f
 **Preliminary results**
 
 The first graph is for red restoration when corrupting to green, the second is for red restoration when corrupting to blue, and the third is for shifting logits to blue when corrupting to blue. The first two test for color extractor heads and the last tests for point of interest localization heads. 
+
+![alt text](llava-heads.png)
  
 There seems to be preliminary evidence for the existence of such heads, but they need to be corroborated with other investigations. The POI localization circuit in particular may have more going on than expected. 
 
