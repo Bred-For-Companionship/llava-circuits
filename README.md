@@ -1,6 +1,6 @@
 ## Note for Mats application example code
 I'm a bit confused about the intent of the questions. Is the sought after quality skill at *design of experiments* (teasing out causal links and controlling for confounders etc.) or *building experiment infrastructure* (good ML engineering)? Or both?
-I wish I had code that showcases both! But I don't. I'm going to assume it's the first sklll set (experiment design). 
+I wish I had code that showcases both! But I don't. I'm going to assume it's the first sklll set (experiment design). If it's the second, please navigate to my other repo [here](https://github.com/Bred-For-Companionship/CMask)
 
 ## Mini project intro
 Circuits have been discovered in LLMs of various sizes, so it is logical to assume that they exist in VLLMs. Different from the vision-language models supported such as CLIP, VLLMs project the vision output of an image encoder (often the ViT from CLIP) into LLM space, opening up a new world of possibilities in image-grounded LLM prompting. The poster-child of this class of models is LLAVA, which I explore in this mini project.
